@@ -35,6 +35,7 @@
 • 🗂️ Insert vectors into Supabase for fast retrieval
 
 📄 License
+
 Licensed for educational and commercial use.
 
 👤 Author
